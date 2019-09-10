@@ -34,4 +34,7 @@
     .navbar {
         background-color: #4285F4;
     }
+    .space-at-top {
+        margin-top: 30px;
+    }
 }
